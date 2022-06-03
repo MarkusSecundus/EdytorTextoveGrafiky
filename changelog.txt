@@ -1,0 +1,55 @@
+v1.7.2   (3.3.2019)
+-nekolik zmen na zdrojovem kodu, jejichz ucelem je veskrze zmirneni nasledku, jez by jeho pripadne cteni mohlo zanechat na nahodnem ctenari
+
+v1.7.1   (24.2.2019)
+-opraveno mnoho chyb, z nichz vetsina tu byla uz velmi dlouho
+-pridana funkce Rychleho ulozeni
+
+v1.7   (18.2.2019)
+-opravena spusta chyb, ktere byly v RC5 - autorovi se jiz nedari nalezt dalsi
+
+v1.7 RC5   (17.2.2019)
+-pridano subnastaveni pro specielni jidla v Hadovi
+
+v1.7 RC4   (12.2.2019)
+-opraveno nekolik zanedbatelnych drobnosti
+-zdrojovy kod byl obecne trochu zkultivovan
+
+v1.7 RC3   (12.12.2018)
+-nove jiz program pri vypnuti nepada
+
+v1.7 RC2   (9.12.2018)
+-nove program na konci vzdy spadne
+-pridana moznost pri umistovani vybrane oblasti nebo retezce ignorovat bile znaky v nem - ridi se nastavenim Dutosti ctvercu
+-optimalnejsi zpusob barevneho kresleni - nove se nepouziva externi program ColourText.exe
+
+v1.6.1   (25.11.2018)
+-pridany instrukce pro interakci s Nastavenim
+
+v1.6   (19.9.2018)
+-pridan changelog
+
+v1.5   (7.9.2018)
+-pridano Nastaveni
+-moznost pohybu hada i vyhradne po uhloprickach
+-odstranen nefunkcni system pro rychlejsi kresleni cervenou barvou na Windows 10
+
+v1.4  (19.7.2018)
+-pridan Had!
+-zmena zkratky z nespravneho "EyTGu" na "EyTGű"
+
+v1.3  (12.7.2018)
+-pridana funkce pro Orez
+-pridana schranka pro funkci Kopirovani oblasti
+
+v1.2 (13.6.2018)
+-pridana Funkce pro vyber a kopirovani oblasti
+
+v1.2 (22.1.2017)
+-tato informace je tajna
+
+v1.1 (18.1.2017)
+-zmeny nezname
+
+v1.0 (davna historie)
+-bude predmetem budouciho badani
